@@ -70,8 +70,9 @@ the app:
 
 ## 📸 Demo
 
-<img width="578" height="410" alt="image" src="https://github.com/user-attachments/assets/1713981c-2da2-44e0-84ce-c9311c5432cd" />
+🔗 Live app: https://student-roadmap-generator-yj4epbjuaeg6bqppmtbhjf.streamlit.app/
 
+![Demo Screenshot](image.png)
 
 ## 👤 Author
 
