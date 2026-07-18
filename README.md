@@ -70,7 +70,8 @@ the app:
 
 ## 📸 Demo
 
-*(Add a screenshot of your app here once deployed)*
+<img width="578" height="410" alt="image" src="https://github.com/user-attachments/assets/1713981c-2da2-44e0-84ce-c9311c5432cd" />
+
 
 ## 👤 Author
 
